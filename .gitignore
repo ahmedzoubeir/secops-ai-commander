@@ -1,0 +1,35 @@
+# Virtual environments
+venv/
+.env/
+
+# Secrets
+.env
+*.env
+
+# Cache / runtime
+__pycache__/
+*.pyc
+*.log
+
+# Databases
+*.db
+*.sqlite3
+
+# Redis / MySQL data
+redis-data/
+mysql-data/
+
+# OS / IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Temporary demos / local tests
+test_*.py
+
+demo&description
+demo.py
+README.md
+README1.md
+first_test.txt
+demo et demo1.txt

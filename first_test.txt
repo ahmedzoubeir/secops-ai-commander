@@ -1,0 +1,47 @@
+🔐 Built a Multi-Agent AI-Powered SecOps Analysis Engine
+
+I’ve been working on a personal project called SecOps AI Commander, where I designed and implemented a multi-agent security operations analysis system using Python, FastAPI, and DSPy.
+
+🔹 What the system does:
+
+Analyzes raw security logs using an AI-powered Log Analyzer agent
+
+Detects threats, severity levels, and intrusion patterns
+
+Correlates findings with the MITRE ATT&CK framework
+
+Reconstructs likely attack chains and tactics
+
+Generates actionable mitigation and response workflows
+
+Orchestrates all agents through a centralized decision layer
+
+🔹 Architecture highlights:
+
+Modular, agent-based design (Log Analysis, Threat Intelligence, Orchestration)
+
+DSPy-based structured reasoning (no free-form LLM outputs)
+
+MITRE ATT&CK mapping with live API + fallback datasets
+
+SOAR-style synthesis and prioritization logic
+
+Exposed as a production-ready FastAPI service
+
+This project helped me deepen my understanding of:
+
+SOC workflows
+
+Detection engineering
+
+Threat intelligence correlation
+
+AI-assisted security operations
+
+API-first security tooling
+
+Next steps include adding persistence, event correlation, and streaming ingestion.
+
+Always open to feedback or discussions around SecOps, Detection Engineering, and AI in cybersecurity 🚀
+
+#CyberSecurity #SecOps #BlueTeam #MITREATTACK #AI #FastAPI #Python #SOC #ThreatIntelligence
